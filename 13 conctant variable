@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
   int my = 15;
-  my=13
+  my=13;
   // const my=19;
   //my =23;
   

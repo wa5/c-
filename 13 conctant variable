@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int my = 15;
+  my=13
+  // const my=19;
+  //my =23;
+  
+  cout << myNum;
+  return 0;
+}

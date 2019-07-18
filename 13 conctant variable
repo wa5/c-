@@ -7,6 +7,6 @@ int main() {
   // const my=19;
   //my =23;
   
-  cout << myNum;
+  cout << my;
   return 0;
 }
